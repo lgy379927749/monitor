@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-api" />
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-doraemon" />
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-job" />
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live" />
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live-app" />
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-schedule" />
+    <file type="web" url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-uat-data" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-biz/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-doraemon/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-job/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live-app/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-task/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-uat-data/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-api/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

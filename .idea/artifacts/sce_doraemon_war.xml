@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sce-doraemon:war">
+    <output-path>$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-doraemon/target</output-path>
+    <root id="archive" name="sce-doraemon.war">
+      <element id="artifact" artifact-name="sce-doraemon:war exploded" />
+    </root>
+  </artifact>
+</component>

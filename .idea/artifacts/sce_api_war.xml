@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sce-api:war">
+    <output-path>$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-api/target</output-path>
+    <root id="archive" name="sce-api.war">
+      <element id="artifact" artifact-name="sce-api:war exploded" />
+    </root>
+  </artifact>
+</component>

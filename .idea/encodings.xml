@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-doraemon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-schedule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-uat-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-utility" charset="UTF-8" />
+  </component>
+</project>

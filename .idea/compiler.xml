@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sce-biz" />
+        <module name="sce-job" />
+        <module name="sce-live" />
+        <module name="sce-schedule" />
+        <module name="sce-task" />
+        <module name="sce-utility" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sce-api" target="1.8" />
+      <module name="sce-biz" target="1.8" />
+      <module name="sce-doraemon" target="1.8" />
+      <module name="sce-job" target="1.8" />
+      <module name="sce-live" target="1.8" />
+      <module name="sce-live-app" target="1.8" />
+      <module name="sce-radar" target="1.8" />
+      <module name="sce-schedule" target="1.8" />
+      <module name="sce-task" target="1.8" />
+      <module name="sce-uat-data" target="1.7" />
+      <module name="sce-utility" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

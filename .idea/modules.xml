@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-biz/sce-biz.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-biz/sce-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-job/sce-job.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-job/sce-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live/sce-live.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-live/sce-live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-radar.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-radar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-schedule/sce-schedule.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-schedule/sce-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-task/sce-task.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-task/sce-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-utility/sce-utility.iml" filepath="$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-utility/sce-utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/监控.iml" filepath="$PROJECT_DIR$/.idea/监控.iml" />
+    </modules>
+  </component>
+</project>

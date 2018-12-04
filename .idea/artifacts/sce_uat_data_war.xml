@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sce-uat-data:war">
+    <output-path>$PROJECT_DIR$/vip-sce-radar/sce-radar/sce-uat-data/target</output-path>
+    <root id="archive" name="sce-uat-data.war">
+      <element id="artifact" artifact-name="sce-uat-data:war exploded" />
+    </root>
+  </artifact>
+</component>
